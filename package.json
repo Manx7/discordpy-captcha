@@ -1,0 +1,18 @@
+{
+  "name": "Manx7_Captcha",
+  "version": "1.0.1",
+  "description": "A pre-built Discord.PY bot to interface with the Manx7 Captcha API.",
+  "main": "captcha.py",
+  "scripts": {
+    "start": "run.cmd"
+  },
+  "keywords": [],
+  "authors": [
+	"MistakingManx#5555",
+	"AnticcX#0098"
+  ],
+  "license": "ISC",
+  "dependencies": {},
+  
+  "NOTICE": "I am completely aware that this file is not important for Python."
+}
