@@ -33,7 +33,7 @@ You must have the following installed for this to work, at all.
  - [Help with Python 3](https://realpython.com/installing-python/) (incase you struggle with the install..like me)
 
 # PyPI Requirements
-This bot requires the following packages from [npmjs](https://npmjs.com).
+This bot requires the following packages from [PyPI](https://pypi.org/).
  - [requests](https://pypi.org/project/requests/)
  - [discord.py](https://pypi.org/project/discord.py/)
 
