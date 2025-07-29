@@ -1,3 +1,6 @@
+# WARNING: This project has been abandoned.
+> It is not functional.
+
 # Captcha for Discord! (discord.py)
 A pre-built Discord bot running on [discord.py](https://discordpy.readthedocs.io/en/stable) using the [Manx7 Captcha API](https://captcha.manx7.net).
 
